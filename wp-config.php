@@ -57,6 +57,8 @@ define( 'SECURE_AUTH_SALT', 'jR4Gl5#RZz)Re??Vmd[i-+yGO;4D~[F`||Emr%Uh4eGAg+*TRMP
 define( 'LOGGED_IN_SALT',   '{+t:FG>u#Ce3X.DEGC1PyD@Qeo(5<=gk!Tvj?8VFRv2a^EeYOxc@Z>Y1[cqa:n>(' );
 define( 'NONCE_SALT',       'Om[q3$kk6EXBZ[2Q-1z5zC0[9O*{dR#bq6JSyKV]WQ/2b%vI$-#|N.?OL3H4eO>%' );
 
+	define( 'WP_HOME', 'http://127.0.0.1/footybite' );
+	define( 'WP_SITEURL', 'http://127.0.0.1/footybite' );
 /**#@-*/
 
 /**
