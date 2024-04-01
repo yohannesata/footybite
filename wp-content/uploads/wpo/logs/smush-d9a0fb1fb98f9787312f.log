@@ -1,0 +1,40 @@
+[2024-04-01 21:16:14 : INFO] - Re_Smush_It_Task server status: Online 
+[2024-04-01 21:16:16 : INFO] - A total of 5 tasks of type smush found and will be processed in this iteration 
+[2024-04-01 21:16:16 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2024-04-01 21:16:16 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2024-04-01 21:16:16 : INFO] - Processing task with ID : 1, and type 'smush' 
+[2024-04-01 21:16:16 : INFO] - Re_Smush_It_Task - Attachment ID : 12164, Started on : April 01, 2024 09:16:16 
+[2024-04-01 21:16:16 : INFO] - File: PSG-corner-kick-live-soccer-tv.jpg, Compression quality: 92 
+[2024-04-01 21:16:32 : INFO] - Task with ID 1 and type (smush) failed with error code invalid_response - The compression apparently succeeded, but WP-Optimize could not retrieve the compressed image from the remote server. 
+[2024-04-01 21:16:32 : INFO] - data: {"src":"http:\/\/hel2.static.resmush.it\/c539094a1200979ef3e0986392218ecc\/_src_PSG-corner-kick-live-soccer-tv.jpg","dest":"http:\/\/hel2.static.resmush.it\/c539094a1200979ef3e0986392218ecc\/PSG-corner-kick-live-soccer-tv.jpg","src_size":1239478,"dest_size":525746,"percent":58,"output":"json","expires":"Mon, 01 Apr 2024 23:21:27 +0200","generator":"reSmush.it rev.3.0.11.20240125"} 
+[2024-04-01 21:16:32 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-04-01 21:16:32 : INFO] - Processing task with ID : 2, and type 'smush' 
+[2024-04-01 21:16:32 : INFO] - Re_Smush_It_Task - Attachment ID : 12165, Started on : April 01, 2024 09:16:16 
+[2024-04-01 21:16:32 : INFO] - File: live-soccer-tv.jpg, Compression quality: 92 
+[2024-04-01 21:16:38 : INFO] - Task with ID 2 and type (smush) failed with error code invalid_response - The compression apparently succeeded, but WP-Optimize could not retrieve the compressed image from the remote server. 
+[2024-04-01 21:16:38 : INFO] - data: {"src":"http:\/\/hel2.static.resmush.it\/074c5268f52133ff97fb403539b541b3\/_src_live-soccer-tv.jpg","dest":"http:\/\/hel2.static.resmush.it\/074c5268f52133ff97fb403539b541b3\/live-soccer-tv.jpg","src_size":248522,"dest_size":106760,"percent":57,"output":"json","expires":"Mon, 01 Apr 2024 23:21:34 +0200","generator":"reSmush.it rev.3.0.11.20240125"} 
+[2024-04-01 21:16:38 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-04-01 21:16:38 : INFO] - Processing task with ID : 3, and type 'smush' 
+[2024-04-01 21:16:38 : INFO] - Re_Smush_It_Task - Attachment ID : 12166, Started on : April 01, 2024 09:16:16 
+[2024-04-01 21:16:38 : INFO] - File: bayern-real-match.jpeg, Compression quality: 92 
+[2024-04-01 21:16:44 : INFO] - Task with ID 3 and type (smush) failed with error code invalid_response - The compression apparently succeeded, but WP-Optimize could not retrieve the compressed image from the remote server. 
+[2024-04-01 21:16:44 : INFO] - data: {"src":"http:\/\/hel2.static.resmush.it\/2e185d6e7a27ee9b4dce9add2898219c\/_src_bayern-real-match.jpeg","dest":"http:\/\/hel2.static.resmush.it\/2e185d6e7a27ee9b4dce9add2898219c\/bayern-real-match.jpeg","src_size":658699,"dest_size":532456,"percent":19,"output":"json","expires":"Mon, 01 Apr 2024 23:21:40 +0200","generator":"reSmush.it rev.3.0.11.20240125"} 
+[2024-04-01 21:16:44 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-04-01 21:16:44 : INFO] - Processing task with ID : 4, and type 'smush' 
+[2024-04-01 21:16:44 : INFO] - Re_Smush_It_Task - Attachment ID : 12167, Started on : April 01, 2024 09:16:16 
+[2024-04-01 21:16:44 : INFO] - File: image.png, Compression quality: 92 
+[2024-04-01 21:16:45 : INFO] - Backing up the original image - 2024/03/image-updraft-pre-smush-original.png 
+[2024-04-01 21:16:45 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-04-01 21:16:45 : INFO] - Successfully optimized the image - C:\xampp\htdocs\footybite/wp-content/uploads/2024/03/image.png.The file was compressed from 5.30 KB to 2.59 KB, saving 51.09 percent, using WP-Optimize 
+[2024-04-01 21:16:45 : INFO] - Completed processing task with ID : 4, and type 'smush' 
+[2024-04-01 21:16:45 : INFO] - Processing task with ID : 5, and type 'smush' 
+[2024-04-01 21:16:45 : INFO] - Re_Smush_It_Task - Attachment ID : 12168, Started on : April 01, 2024 09:16:16 
+[2024-04-01 21:16:45 : INFO] - File: 1165218.png, Compression quality: 92 
+[2024-04-01 21:16:46 : INFO] - Backing up the original image - 2020/04/1165218-updraft-pre-smush-original.png 
+[2024-04-01 21:16:46 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-04-01 21:16:46 : INFO] - Successfully optimized the image - C:\xampp\htdocs\footybite/wp-content/uploads/2020/04/1165218.png.The file was compressed from 29.28 KB to 10.90 KB, saving 62.76 percent, using WP-Optimize 
+[2024-04-01 21:16:46 : INFO] - Completed processing task with ID : 5, and type 'smush' 
+[2024-04-01 21:16:46 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2024-04-01 21:16:46 : INFO] - Successfully processed the queue (smush). 5 tasks were processed out of 5. 
+[2024-04-01 21:16:46 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2024-04-01 21:16:46 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
