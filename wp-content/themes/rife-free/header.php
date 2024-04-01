@@ -17,7 +17,7 @@ do_action('apollo13framework_before_html');
 <!--[if gt IE 9]><!--> <html class="no-js" <?php language_attributes(); ?>> <!--<![endif]-->
 <head>
 <?php do_action('apollo13framework_head_start'); ?>
-
+<meta name="google-adsense-account" content="ca-pub-6000776275683640">
 <meta charset="<?php bloginfo( 'charset' ); ?>" />
 <meta name="viewport" content="width=device-width,initial-scale=1" />
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
