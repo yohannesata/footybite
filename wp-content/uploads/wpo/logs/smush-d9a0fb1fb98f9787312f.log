@@ -38,3 +38,4 @@
 [2024-04-01 21:16:46 : INFO] - Successfully processed the queue (smush). 5 tasks were processed out of 5. 
 [2024-04-01 21:16:46 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
 [2024-04-01 21:16:46 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2024-04-02 07:46:47 : INFO] - Pruning the smush log file 
