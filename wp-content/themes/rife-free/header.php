@@ -34,6 +34,7 @@ do_action('apollo13framework_before_html');
 <?php
     wp_head();
 ?>
+
 </head>
 
 <body id="top" <?php body_class(); apollo13framework_schema_args('body'); ?>>
