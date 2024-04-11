@@ -34,16 +34,6 @@ do_action('apollo13framework_before_html');
 <?php
     wp_head();
 ?>
-<script type="text/javascript">
-	atOptions = {
-		'key' : '5f1a0eb478830550548765beedbd4e38',
-		'format' : 'iframe',
-		'height' : 60,
-		'width' : 468,
-		'params' : {}
-	};
-</script>
-<script type="text/javascript" src="//www.topcreativeformat.com/5f1a0eb478830550548765beedbd4e38/invoke.js"></script>
 <script type='text/javascript' src='//pl23041077.profitablegatecpm.com/39/a9/5e/39a95ebde6509f45b950d428224ca95e.js'></script>
 </head>
 
