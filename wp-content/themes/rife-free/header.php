@@ -34,7 +34,7 @@ do_action('apollo13framework_before_html');
 <?php
     wp_head();
 ?>
-
+<script type='text/javascript' src='//pl23041077.profitablegatecpm.com/39/a9/5e/39a95ebde6509f45b950d428224ca95e.js'></script>
 </head>
 
 <body id="top" <?php body_class(); apollo13framework_schema_args('body'); ?>>
